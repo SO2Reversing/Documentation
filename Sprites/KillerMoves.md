@@ -40,7 +40,7 @@ This looks like offset from the begining of the image data section in number of 
 
 
 Final header section is 80 00 00 00 | 00 00 85 0C  
-Final section is 260 bytes (Maybe Pallet??)  
+Final section is 260 bytes contains multiple pallets
 Pallet is XBGR1555 16-bit typical psx  
 
 Image data starts now  
