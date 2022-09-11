@@ -17,3 +17,7 @@ The goal of this repository is to document the game Star Ocean 2 for Playstation
 #### Random Number Generation
 
 [Random Number Generation](https://github.com/SO2Reversing/Documentation/blob/main/rng/RandomNumberGeneration.md)
+
+
+#### Item Descriptions  
+[Item Descriptions](https://github.com/SO2Reversing/Documentation/blob/main/Items/4489.md)
