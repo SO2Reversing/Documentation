@@ -1,0 +1,1023 @@
+0001 - Magic Canvas
+0002 - 'Spring'
+0003 - 'The Scream'
+0004 - 'Judgment Day'
+0005 - 'The Last Supper'
+0006 - Portrait A
+0007 - Portrait B
+0008 - Portrait C
+0009 - Portrait G
+000A - Portrait I
+000B - Portrait D
+000C - Portrait F
+000D - Portrait J
+000E - Portrait H
+000F - Portrait E
+0010 - Portrait L
+0011 - Portrait K
+0012 - Scribbles
+0013 - Victorial Card
+0014 - Mortalial Card
+0015 - Revival Card
+0016 - Fol Up Card
+0017 - Dicovery Card
+0018 - Extension Card
+0019 - Fairies Card
+001A - Fountain Card
+001B - Silence Card
+001C - Hexagram Card
+001D - Magic Rock
+001E - Weird Lump
+001F - Tri-ball
+0020 - Hyperball
+0021 - Super Ball
+0022 - Angle's Statue
+0023 - Fairy's Statue
+0024 - Goddess Statue
+0025 - Dummy Doll
+0026 - Idol
+0027 - Skanda
+0028 - Treasure Chest
+0029 - Jack-in-the-box
+002A - Mirror of Wisdom
+002B - Magical Clay
+002C - Feather Pen
+002D - Piano
+002E - Cembalo
+002F - Illusive Shamisen
+0030 - Silver Trumpet
+0031 - Harmonica
+0032 - Lyre
+0033 - Violin
+0034 - Organ
+0035 - Conductor's Baton
+0036 - Spectacles
+0037 - Magical Drops
+0038 - Moonlight
+0039 - Silver Idol
+003A - Golden Idol
+003B - Pretty Idol
+003C - Weird Doll
+003D - Reverse Doll
+003E - Silver Pendant
+003F - Sturm Ring
+0040 - Green Bracelet
+0041 - Frog
+0042 - Glass Slippers
+0043 - Regeneration Ring
+0044 - Useless Decoration
+0045 - Luna Tablet
+0046 - Poison Check
+0047 - Paralysis Check
+0048 - Stone Check
+0049 - Purple Mist
+004A - Magic Mist
+004B - Necklace
+004C - Might Chain
+004D - Surrender Pendant
+004E - Leaf Pendant
+004F - Ruby Pendant
+0050 - Star Necklace
+0051 - Fairy Tear
+0052 - Pyre Tear
+0053 - Silver Charm
+0054 - Blue Talisman
+0055 - Talisman
+0056 - Luna Talisman
+0057 - Gold Ring
+0058 - Princess Ring
+0059 - Healing Ring
+005A - Mental Ring
+005B - Wisdom Ring
+005C - Weighty Ring
+005D - Hard Ring
+005E - Heavy Ring
+005F - Atlas Ring
+0060 - Eclipse Ring
+0061 - Insanity Ring
+0062 - Infinity Ring
+0063 - Battalia Ring
+0064 - Demonslayer Ring
+0065 - Reflection Ring
+0066 - Protection Ring
+0067 - Ring Of Happiness
+0068 - Ring of Sadness
+0069 - Promised Ring
+006A - Stardust Ring
+006B - Peep Half
+006C - Peep Non
+006D - Slayer's Ring
+006E - Meteor Ring
+006F - Lunatic Ring
+0070 - Berserk Ring
+0071 - Shield Ring
+0072 - Resistance Ring
+0073 - Aqua Ring
+0074 - Flare Ring
+0075 - General's Ring
+0076 - Prism Ring
+0077 - Holy Ring
+0078 - Emerald Ring
+0079 - Water Ring
+007A - Fire Ring
+007B - Thunder Ring
+007C - Fairy Ring
+007D - Black Earring
+007E - Golden Earring
+007F - Ruby Earring
+0080 - Blood Earring
+0081 - Shield Earring
+0082 - Zephyr Earring
+0083 - Flash Earring
+0084 - Gaudy Earring
+0085 - Gale Earring
+0086 - Hard Earring
+0087 - Emerald Earring
+0088 - Star Earring
+0089 - Attack Earring
+008A - First Earring
+008B - Lunatic Earring
+008C - Silver Cross
+008D - Golden Cross
+008E - Magic Cross
+008F - Silver Ring
+0090 - Right Cross
+0091 - Left Cross
+0092 - Silver Barrette
+0093 - Angle Hair
+0094 - Golden Bracelet
+0095 - Anklet
+0096 - Lot Bracelet
+0097 - Recoil Bracelet
+0098 - Dream Bracelet
+0099 - Golden Crown
+009A - Shiny Earring
+009B - Moon Earring
+009C - Mind Ring
+009D - Feet Symbol
+009E - Silver Earring
+009F - Misty Symbol
+00A0 - Crown
+00A1 - Dream Crown
+00A2 - Moon Tiara
+00A3 - Crumpled Paper
+00A4 - Fountain Pen
+00A5 - Beret
+00A6 - Pose Collection
+00A7 - Today's Dish
+00A8 - Musical Theory
+00A9 - Operation Manual
+00AA - Engineering
+00AB - Choose Ingredients
+00AC - Cook From The Heart
+00AD - Mystical Beings
+00AE - Heart Barriers
+00AF - Nature's Life Force
+00B0 - The Land's Secret
+00B1 - Pocket Encyclopedia
+00B2 - Gold/Silversmith
+00B3 - Pieces for Learners
+00B4 - No Need for Words
+00B5 - Grammar
+00B6 - The Hermes Theory
+00B7 - Forest Friends
+00B8 - All About Herbs
+00B9 - On Revenge
+00BA - On Training
+00BB - Before Tea's Ready
+00BC - Fanzine ?
+00BD - Fanzine ...
+00BE - Fanzine
+00BF - Fanzine (music note)
+00C0 - Fanzine !
+00C1 - Fanzine (heart)
+00C2 - Fanzine (male symbol(?))
+00C3 - Fanzine (female symbol(?))
+00C4 - Planet of the Winds
+00C5 - I Can Only See You
+00C6 - The World is Mine
+00C7 - Advanced Heraldry
+00C8 - The Bloody Road
+00C9 - New Civilization
+00CA - Cat House Murder
+00CB - Mr. 'No'
+00CC - Buy it... Ok?
+00CD - Living with Animals
+00CE - But One Truth
+00CF - Countdown
+00D0 - Ocean of Stars
+00D1 - Falling in Love
+00D2 - Lady in Red
+00D3 - Special Heraldry
+00D4 - To Live
+00D5 - Historic Greats
+00D6 - Wax Doll Murders
+00D7 - Never Turn Back
+00D8 - A Maiden's Secret
+00D9 - Principles of Nature
+00DA - Killer's Book
+00DB - Lost Sanctuary
+00DC - Mandrake
+00DD - Rose Hips
+00DE - Artemis Leaf
+00DF - Wolfsbane
+00E0 - Lavender
+00E1 - Aceras
+00E2 - Skanda Compress
+00E3 - Attack Vial
+00E4 - Energy Tonic
+00E5 - Kamikaze Tonic
+00E6 - Smelling Salts
+00E7 - Shock Oil
+00E8 - Smoke Oil
+00E9 - Twin's Tonic
+00EA - Herbal Oil
+00EB - Bubble Lotion
+00EC - Paralysis Oil
+00ED - Bitter Lotion
+00EE - Fairy Glass
+00EF - Fairy's Cologne
+00F0 - Merlin Drink
+00F1 - Medical Rinse
+00F2 - Melting Lotion
+00F3 - Ressurrection Mist
+00F4 - Risky Liquid
+00F5 - Lilith Tonic
+00F6 - Danger Pot
+00F7 - Nightmare Pot
+00F8 - Flash Pot
+00F9 - Mint Pot
+00FA - Mental Pot
+00FB - Sour Syrup
+00FC - Sweet Syrup
+00FD - Maple Syrup
+00FE - Fruit Syrup
+00FF - Fresh Syrup
+0100 - Hot Syrup
+0101 - Mixed Syrup
+0102 - Cure Poison
+0103 - Cure Paralysis
+0104 - Wonder Drug
+0105 - Natural High
+0106 - Crush Pill
+0107 - Care Tablet
+0108 - Violence Pill
+0109 - Marionette Pill
+010A - Skanda Ointment
+010B - Stink Gel
+010C - Succubus Cologne
+010D - Aphrodisiac
+010E - Pixie Cologne
+010F - Smoke Mist
+0110 - Paralysis Mist
+0111 - Fairy Mist
+0112 - Blanking Mist
+0113 - Holy Mist
+0114 - Madness Mist
+0115 - Resurrection Bottle
+0116 - Spring Water
+0117 - Seafood
+0118 - Fruit
+0119 - Grain
+011A - Meat
+011B - Vegetables
+011C - Egg/Dairy Products
+011D - Sashimi
+011E - ?MACHINE
+011F - Sole & Wine Sauce
+0120 - ?MACHINE
+0121 - Cracked Gem
+0122 - Shark Potstickers
+0123 - Shark Fin Soup
+0124 - Bird's Nest Soup
+0125 - Broth
+0126 - Mushroom Soup
+0127 - Steamed Aspic
+0128 - ?MACHINE
+0129 - Orangeade
+012A - Pear Compote
+012B - Stawberry Mochi
+012C - ?MACHINE
+012D - ?MACHINE
+012E - Muscat Grape Jelly
+012F - Konyaku Jelly
+0130 - ?MACHINE
+0131 - ?MACHINE
+0132 - Coconut Milk
+0133 - Sharpness (Sword)
+0134 - Fruit Sandwich
+0135 - Sole & Fruit Sauce
+0136 - Sweet Rice Cakes
+0137 - Fried Rice
+0138 - Meat Fried Rice
+0139 - Sake Lees Pickles
+013A - ?JEWELRY
+013B - French Toast
+013C - Israfil's Tear
+013D - Red Lotus Gem
+013E - Shrimp Shu-mai
+013F - Hamburger
+0140 - Sirlion Steak
+0141 - Tri-emplem
+0142 - Peking Duck
+0143 - Creamed Stew
+0144 - Lezard Flask
+0145 - Fish Squash Salad
+0146 - Valkyrie's Garb (Armor)
+0147 - Daikon Radish
+0148 - Happo-sai
+0149 - Fried Vegetables
+014A - Missing Number
+014B - Missing Number
+014C - Yogurt Salad
+014D - Missing Number
+014E - Tea Cloth Sushi
+014F - Plain Omlet
+0150 - Missing Number
+0151 - Toro Tuna
+0152 - Missing Number
+0153 - Seaweed Miso Soup
+0154 - Shu-mai
+0155 - Amoeba Soup
+0156 - Sacred Tear (Sword)
+0157 - Fallen Hope (Armor)
+0158 - Shrimp au Gratin
+0159 - Big Tuna
+015A - Salmon Omlet
+015B - Shrimp Pilaf
+015C - Link Combo
+015D - Root Beer
+015E - 'Ishidaya' Tea
+015F - Yukiyucho Tea
+0160 - Hassaku Tea
+0161 - Yaegaki Tea
+0162 - 'Usunigori' Tea
+0163 - Sambai Tea
+0164 - Sweet Dumpling
+0165 - Levantine Sword (Sword)
+0166 - Daikon Miso Soup
+0167 - Gruel
+0168 - Rice Cakes
+0169 - Pancakes
+016A - Hoy Sword Farwell (Sword)
+016B - Soda-Pop
+016C - Seraphic Garb (Armor)
+016D - Shrimp Doria
+016E - Rice Omlet
+016F - Million Staff (Staff)
+0170 - Berry Juice
+0171 - Seltzer
+0172 - Orange Sherbet
+0173 - Banana Crepes
+0174 - Apple Cider
+0175 - Pickled Plum
+0176 - Strawberry Mousse
+0177 - Apple Crepes
+0178 - Peach Ice Cream
+0179 - Aged Berry Juice
+017A - Orange Au Gratin
+017B - Bitter Juice
+017C - Meat Dumpling
+017D - Potstickers
+017E - Beef Croquettes
+017F - Chicken Skewers
+0180 - Jambalaya
+0181 - Angle Armband (strong)
+0182 - Chicken Doria
+0183 - Steak
+0184 - Baby Rabbit Risotto
+0185 - Ground Lamb Steak
+0186 - Gelatin Steak
+0187 - Bad Tasting Stew
+0188 - Weird Slayer (Knuckles)
+0189 - Bunny Shoe (Boot)
+018A - Squash Croquettes
+018B - Corn Potage
+018C - Funny Slayer (umm.... crap except against 'Funny'(?),weapon)
+018D - Spring Roll
+018E - Carrot Juice
+018F - Cabbage Roll
+0190 - Squash Spring Rolls
+0191 - Vegetable Juice
+0192 - Green Potage
+0193 - Wilted Salad
+0194 - Fried Eggs
+0195 - Slime Jelly
+0196 - Fruit Smoothie
+0197 - Yogurt
+0198 - Egg Sandwich
+0199 - Chocolate Crepes
+019A - Bacon & Eggs
+019B - Vanilla Ice Cream
+019C - Shortcake
+019D - Custard Pudding
+019E - Macaroni Au Gratin
+019F - Spicy Cake
+01A0 - Raw Milk
+01A1 - Fruit Nectar
+01A2 - Pet Food
+01A3 - Iron
+01A4 - Gold
+01A5 - Silver
+01A6 - Moonite
+01A7 - Orichalcum
+01A8 - Meteorite
+01A9 - Mithril
+01AA - Damascus
+01AB - Rune Metal
+01AC - Rock
+01AD - Green Beryl
+01AE - Sapphire
+01AF - Ruby
+01B0 - Star Ruby
+01B1 - Crystal
+01B2 - Sage's Stone
+01B3 - Diamond
+01B4 - Rainbow Diamond
+01B5 - Bandit's Gloves
+01B6 - Blurry Photo
+01B7 - Magical Camera
+01B8 - Magic Film
+01B9 - Music Box
+01BA - Element Analyzer
+01BB - Graphic Software
+01BC - Magician's Hand
+01BD - Rirca
+01BE - Killer Poison
+01BF - Peep-peep Bomb
+01C0 - Mind Bomb
+01C1 - Flare Bomb
+01C2 - Tetra-bomb
+01C3 - Assault Bomb
+01C4 - Protection Bomb
+01C5 - Half-dead Bomb
+01C6 - Soul Trap
+01C7 - Nuclear Bomb
+01C8 - Material Kit
+01C9 - Musical Software
+01CA - Erlenmeyer Flask
+01CB - Magical Rasp
+01CC - Soldering Iron
+01CD - Survival Kit
+01CE - Text Software
+01CF - Antiseptic Gloves
+01D0 - Holoprojector
+01D1 - Plasma Zap-stick
+01D2 - Mech Launcher
+01D3 - White System
+01D4 - Black System
+01D5 - Green System
+01D6 - Smith's Hammer
+01D7 - Odd Medicine
+01D8 - Lady Fingers
+01D9 - Vallum Paper
+01DA - Bounced Check
+01DB - Fill-up
+01DC - Forged Bills
+01DD - Forged Checks
+01DE - Forged Documents
+01DF - Second Ledger
+01E0 - Stock Certificates
+01E1 - Forged Medals
+01E2 - Lien
+01E3 - Contract
+01E4 - Life Insurance
+01E5 - Dull Sword (Sword)
+01E6 - Worn-out Sword (Sword)
+01E7 - Golden Fangs (Sword)
+01E8 - Silver Fangs (Sword)
+01E9 - Broad Sword (Sword)
+01EA - Long Sword (Sword)
+01EB - Sinclair Sabre (Sword)
+01EC - Flame Blade (Sword)
+01ED - Walloon Sword (Sword)
+01EE - Gusguine (Sword)
+01EF - Long Edge (Sword)
+01F0 - Sharp Edge (Sword)
+01F1 - Veil Piercer (Sword)
+01F2 - Grand Stinger (Sword)
+01F3 - Ignite Sword (Sword)
+01F4 - Heart Breaker (Sword)
+01F5 - Marvel Sword (Sword)
+01F6 - Minus Sword (Sword)
+01F7 - Sawed (Sword)
+01F8 - Force Sword (Sword)
+01F9 - Windsley Sword (Sword)
+01FA - Silvance (Sword)
+01FB - Eternal Sphere (Sword)
+01FC - Aura Blade (Sword)
+01FD - All-Purpose Knife (Master Chef,Sword)
+01FE - Bastard Sword (Sword)
+01FF - Baselard (Sword)
+0200 - Oriental Blade (Sword)
+0201 - Murasome Sword (Sword)
+0202 - Soul Slayer (Sword)
+0203 - Whirlwind (Sword)
+0204 - The Hope Of Breeze (Sword)
+0205 - Hard Cleaver (Sword)
+0206 - Ruins' Fate (Sword)
+0207 - Pleiad Sword (Sword)
+0208 - Crimson Diablos (Sword)
+0209 - Cromlea Sword (Sword)
+020A - Wobbly Sword (Sword)
+020B - Twin Swords (Dual-Sword)
+020C - Guard Sword (Dual-Sword)
+020D - Both Shaver (Dual-Sword)
+020E - Smaller (Dual-Sword)
+020F - Twin-edge (Dual-Sword)
+0210 - Pair Nuts (Dual-Sword)
+0211 - Shield Sword (Dual-Sword)
+0212 - Twin Picks (Dual-Sword)
+0213 - Scyther (Dual-Sword)
+0214 - Doubledemon Sword (Dual-Sword)
+0215 - Double Masher (Dual-Sword)
+0216 - Lotus Eater (Dual-Sword)
+0217 - Gemini (Dual-Sword)
+0218 - Holy Cross (Dual-Sword)
+0219 - Melufa (Dual-Sword)
+021A - Worn Knuckles (Knuckles)
+021B - Knuckles (Knuckles)
+021C - Hard Knuckles (Knuckles)
+021D - Cestus (Knuckles)
+021E - Fellper Nails (Knuckles)
+021F - Metal Fangs (Knuckles)
+0220 - Magical Gloves (Knuckles)
+0221 - Braised Knuckles (Knuckles)
+0222 - Pain Cestus (Knuckles)
+0223 - Dragon's Claws (Knuckles)
+0224 - Rune Full Moon (Knuckles)
+0225 - Sorceress Knuckles (Knuckles)
+0226 - Kaiser Knuckles (Knuckles)
+0227 - Empresia (Knuckles)
+0228 - Bagh Nakh (Knuckles)
+0229 - Giant Fists (Knuckles)
+022A - Hecatoncheire (Knuckles)
+022B - Asura (Knuckles)
+022C - Titan's Fists (Knuckles)
+022D - Flare Burst (Knuckles)
+022E - Moon Fists (Knuckles)
+022F - Cat's Fangs (Knuckles)
+0230 - Eagle's Claws (Knuckles)
+0231 - Serpent's Tooth (Knuckles)
+0232 - Death Fangs (Knuckles)
+0233 - Grizzly Claps (Knuckles)
+0234 - Tiger's Fangs (Knuckles)
+0235 - Platinum Nails (Knuckles)
+0236 - Bent Rod (Staff)
+0237 - Silver Rod (Staff)
+0238 - Rod (Staff)
+0239 - Ruby Wand (Staff)
+023A - Tongue Twister (Staff)
+023B - Crest Rod (Staff)
+023C - Holy Rod (Staff)
+023D - Silvermoon (Staff)
+023E - Prime Prayer (Staff)
+023F - Magical Rod (Staff)
+0240 - Rod of Snakes (Staff)
+0241 - Dragon's Tusk (Staff)
+0242 - Ruby Rod (Staff)
+0243 - Clap Rod (Staff)
+0244 - Scrap Iron
+0245 - Booster Box (Kaleidoscope)
+0246 - Radio Box (Kaleidoscope)
+0247 - Black Box (Kaleidoscope)
+0248 - Light Box (Kaleidoscope)
+0249 - Seventh Ray (Kaleidoscope)
+024A - X Box (Kaleidoscope)
+024B - Magic Box (Kaleidoscope)
+024C - Alpha Box (Kaleidoscope)
+024D - Burst Box (Kaleidoscope)
+024E - Psycho Box (Kaleidoscope)
+024F - Beta Box (Kaleidoscope)
+0250 - Gamma Box (Kaleidoscope)
+0251 - Pulse Box (Kaleidoscope)
+0252 - Magic Hand (Hand)
+0253 - Iron Punch (Hand)
+0254 - One-two Punch (Hand)
+0255 - Straight Punch (Hand)
+0256 - Fire Punch (Hand)
+0257 - Ice Punch (Hand)
+0258 - Thunder Punch (Hand)
+0259 - Ultra Punch (Hand)
+025A - Great Punch (Hand)
+025B - Hyper Punch (Hand)
+025C - Burning Hand (Hand)
+025D - Atomic Punch (Hand)
+025E - Spark Hand (Hand)
+025F - SD Punch (Hand)
+0260 - UGA Punch (Hand)
+0261 - SDUGA Punch (Hand)
+0262 - Limp Whip (Whip)
+0263 - Leather Whip (Whip)
+0264 - Splinter (Whip)
+0265 - Hard Whip (Whip)
+0266 - Twin-tail (Whip)
+0267 - Rose Whip (Whip)
+0268 - Flare Whip (Whip)
+0269 - Light Whip (Whip)
+026A - Cat o'9 Tails (Whip)
+026B - Freeze Whip (Whip)
+026C - Spark Whip (Whip)
+026D - Molecule Wire (Whip)
+026E - Dark Whip (Whip)
+026F - Invisible Whip (Whip)
+0270 - Thick Book (Book)
+0271 - Reference Book (Book)
+0272 - Brain Structure (Book)
+0273 - Illustrated Book (Book)
+0274 - Treatise (Book)
+0275 - Mental Revolution (Book)
+0276 - Heraldry (Book)
+0277 - Dictionary (Book)
+0278 - All About ESP (Book)
+0279 - Heraldry Book (Book)
+027A - Holy Scriptures (Book)
+027B - Book of Awakening (Book)
+027C - Encyclopedia (Book)
+027D - Ancient Wisdom (Book)
+027E - Book of Darkness (Book)
+027F - Book of Chaos (Book)
+0280 - 10 Volt Stun Gun (Gun)
+0281 - Stun Gun (Gun)
+0282 - Electric (Gun)
+0283 - Shock Gun (Gun)
+0284 - Voltage (Gun)
+0285 - Freeze (Gun)
+0286 - Electro Gun (Gun)
+0287 - Flame Gun (Gun)
+0288 - Lightning Gun (Gun)
+0289 - Cracker (Gun)
+028A - Aero Gun (Gun)
+028B - Spark (???)
+028C - Flare Gun (Gun)
+028D - Electron (???)
+028E - Psychic Gun (Gun)
+028F - Leather Helm (Helment)
+0290 - Odd Helment (Helment)
+0291 - Odd Hat (Helment)
+0292 - Banded Helm (Helment)
+0293 - Magical Hat (Helment)
+0294 - Fame Helm (Helment)
+0295 - Iron Helm (Helment)
+0296 - Rune Cap (Helment)
+0297 - Plate Helm (Helment)
+0298 - Isis Tiara (Helment)
+0299 - Steel Helm (Helment)
+029A - Jeanne's Helm (Helment)
+029B - Wizard's Hat (Helment)
+029C - Mithril Helm (Helment)
+029D - Sylvan Helm (Helment)
+029E - Duel Helm (Helment)
+029F - Hermit's Helm (Helment)
+02A0 - Odin's Helm (Helment)
+02A1 - Bloody Helm (Helment)
+02A2 - Salamander Helment (Helment)
+02A3 - Sacknoth's Helment (Helment)
+02A4 - Perforated Armor (Armor)
+02A5 - Leather Armor (Armor)
+02A6 - Flashy Armor (Armor)
+02A7 - Banded Mail (Armor)
+02A8 - Odd Clothes (Armor)
+02A9 - Robe (Armor)
+02AA - Ringed Mail (Armor)
+02AB - Silk Robe (Armor)
+02AC - Brigandine (Armor)
+02AD - Amber Robe (Armor)
+02AE - Evening Dress (Armor)
+02AF - Plate Mail (Armor)
+02B0 - Silver Robe (Armor)
+02B1 - Flying Hawk Robes (Armor)
+02B2 - Mirage Robe (Armor)
+02B3 - Mithril Coat (Armor)
+02B4 - Holy Cloak (Armor)
+02B5 - Mithril Dress (Armor)
+02B6 - Star Cloak (Armor)
+02B7 - Jeanne's Armor (Armor)
+02B8 - Steel Armor (Armor)
+02B9 - Battle Suit (Armor)
+02BA - Wizard's Mail (Armor)
+02BB - Ishtar's Robe (Armor)
+02BC - Core Plate (Armor)
+02BD - Mithril Mesh (Armor)
+02BE - Barrier Armor (Armor)
+02BF - Sylvan Mail (Armor)
+02C0 - Valiant Mail (Armor)
+02C1 - Duel Suit (Armor)
+02C2 - Reflective Armor (Armor)
+02C3 - Chaos Mail (Armor)
+02C4 - Bloody Armor (Armor)
+02C5 - Wooden Shield (Shield)
+02C6 - Round Shield (Shield)
+02C7 - Knight's Shield (Shield)
+02C8 - Odd Shield (Shield)
+02C9 - Odd Gauntlets (Shield)
+02CA - Buckler (Shield)
+02CB - Fine Shield (Shield)
+02CC - Rune Buckler (Shield)
+02CD - Crestier Guard (Shield)
+02CE - The Armband of Kali (Shield)
+02CF - Star Guard (Shield)
+02D0 - Rare Gauntlets (Shield)
+02D1 - Jeanne's Shield (Shield)
+02D2 - Algol (Shield)
+02D3 - Mithril Shield (Shield)
+02D4 - Valiant Guard (Shield)
+02D5 - Valkyrie Guard (Shield)
+02D6 - Barrier Shield (Shield)
+02D7 - Pallas Athena (Shield)
+02D8 - Sandals (Boot)
+02D9 - Leather Greaves (Boot)
+02DA - Boots (Boot)
+02DB - Secret Boots (Boot)
+02DC - Suede Boots (Boot)
+02DD - Iron Greaves (Boot)
+02DE - Original Boots (Boot)
+02DF - Leather Boots (Boot)
+02E0 - Plate Greaves (Boot)
+02E1 - High Heels (Boot)
+02E2 - High-laced Shoes (Boot)
+02E3 - Silver Greaves (Boot)
+02E4 - Odd Shoes (Boot)
+02E5 - Pin Heels (Boot)
+02E6 - Santa's Boots (Boot)
+02E7 - Mud Boots (Boot)
+02E8 - Valkyrie Boots (Boot)
+02E9 - Steel-toes Boots (Boot)
+02EA - Rune Shoes (Boot)
+02EB - Mithril Greaves (Boot)
+02EC - Witch's Boots (Boot)
+02ED - Valiant Boots (Boot)
+02EE - Sylvan Boots (Boot)
+02EF - Neo Greaves (Boot)
+02F0 - Star Greaves (Boot)
+02F1 - Neumann Boots (Boot)
+02F2 - Cinderella Glass
+02F3 - Aquaberry
+02F4 - Blackberry
+02F5 - Blueberry
+02F6 - Strawberry Jam
+02F7 - Raspberry Jam
+02F8 - Apple Jam
+02F9 - Aloe Jam
+02FA - Missing Number
+02FB - Tri-emblem
+02FC - Rice Croquettes
+02FD - Soy Milk
+02FE - Smelly Rice Cakes
+02FF - Quick Pickles
+0300 - Rice-bran Pickles
+0301 - Carrot Ice Cream
+0302 - Cure Stone
+0303 - Mischief
+0304 - Trickster
+0305 - Fortune
+0306 - Rotten Sashimi
+0307 - Go-home Frog
+0308 - ?HERB
+0309 - ?HERB
+030A - ?HERB
+030B - ?HERB
+030C - ?HERB
+030D - ?HERB
+030E - Purity Leaf
+030F - Juicy Beef
+0310 - Prime Tuna
+0311 - Ganze Sea Urchin
+0312 - Magical Rice
+0313 - Creamy Cheese
+0314 - Sweet Fruit
+0315 - Slippery Slime
+0316 - Jiggly Slime
+0317 - Milky Potage
+0318 - Special Stir-fry
+0319 - Magical Salad
+031A - Golden Stew
+031B - Fine Saute
+031C - Exciting Tenderloin
+031D - Prime Sirloin
+031E - Inviting Filet
+031F - Tuna Skewers
+0320 - Prine Tuna Steak
+0321 - Fish of Happiness
+0322 - Special Tuna
+0323 - Ichigoni
+0324 - Ichigoni Supreme
+0325 - Prince's Zoni Stew
+0326 - Sea Urchin on Rice
+0327 - Deluxe Doria
+0328 - Miracle Fried Rice
+0329 - Risotto Ecstasy
+032A - Heavenly Doria
+032B - Au Gratin Climax
+032C - Cheese Pizza
+032D - Assorted Cheeses
+032E - Gorgonzola
+032F - Gateau Marjolaine
+0330 - 1-up Pudding
+0331 - Beautiful Ice Cream
+0332 - Ginger Ale
+0333 - Genie's Veggie Soup
+0334 - Genie's Steak
+0335 - Energy Drink
+0336 - Yarma Cooking Set
+0337 - ? (japanese characters)
+0338 - ?MINERAL
+0339 - ?MINERAL
+033A - ?MINERAL
+033B - ?MINERAL
+033C - ?MINERAL
+033D - ?MINERAL
+033E - ?MINERAL
+033F - ?MINERAL
+0340 - ?MINERAL
+0341 - ?MINERAL
+0342 - ?WEAPON
+0343 - ?WEAPON
+0344 - ?WEAPON
+0345 - ?WEAPON
+0346 - ?WEAPON
+0347 - ?WEAPON
+0348 - ?WEAPON
+0349 - ?WEAPON
+034A - ?WEAPON
+034B - ?WEAPON
+034C - ?WEAPON
+034D - ?WEAPON
+034E - ?WEAPON
+034F - ?WEAPON
+0350 - ?WEAPON
+0351 - ?WEAPON
+0352 - ?WEAPON
+0353 - ?WEAPON
+0354 - ?WEAPON
+0355 - ?WEAPON
+0356 - ?WEAPON
+0357 - ?WEAPON
+0358 - ?WEAPON
+0359 - ?WEAPON
+035A - ?WEAPON
+035B - ?WEAPON
+035C - ?WEAPON
+035D - ?WEAPON
+035E - ?WEAPON
+035F - ?WEAPON
+0360 - ?WEAPON
+0361 - ?WEAPON
+0362 - ?WEAPON
+0363 - ?WEAPON
+0364 - ?WEAPON
+0365 - ?WEAPON
+0366 - ?WEAPON
+0367 - ?WEAPON
+0368 - ?WEAPON
+0369 - ?WEAPON
+036A - ?WEAPON
+036B - ?WEAPON
+036C - ?WEAPON
+036D - ?GUARD
+036E - ?GUARD
+036F - ?GUARD
+0370 - ?GUARD
+0371 - ?GUARD
+0372 - ?GUARD
+0373 - ?GUARD
+0374 - ?GUARD
+0375 - ?GUARD
+0376 - ?GUARD
+0377 - ?GUARD
+0378 - ?GUARD
+0379 - ?GUARD
+037A - ?GUARD
+037B - ?GUARD
+037C - ?GUARD
+037D - ?GUARD
+037E - ?GUARD
+037F - ?GUARD
+0380 - ?GUARD
+0381 - ?GUARD
+0382 - ?GUARD
+0383 - ?GUARD
+0384 - ?GUARD
+0385 - ?GUARD
+0386 - ?GUARD
+0387 - ?GUARD
+0388 - ?GUARD
+0389 - ?GUARD
+038A - ?GUARD
+038B - ?GUARD
+038C - ?JEWELRY
+038D - ?JEWELRY
+038E - ?JEWELRY
+038F - ?JEWELRY
+0390 - ?JEWELRY
+0391 - ?JEWELRY
+0392 - ?JEWELRY
+0393 - ?JEWELRY
+0394 - ?JEWELRY
+0395 - ?JEWELRY
+0396 - ?JEWELRY
+0397 - ?JEWELRY
+0398 - ?JEWELRY
+0399 - ?JEWELRY
+039A - ?JEWELRY
+039B - ?JEWELRY
+039C - ?JEWELRY
+039D - ?JEWELRY
+039E - ?JEWELRY
+039F - ?JEWELRY
+03A0 - ?JEWELRY
+03A1 - ?JEWELRY
+03A2 - ?JEWELRY
+03A3 - ?JEWELRY
+03A4 - ?JEWELRY
+03A5 - ?JEWELRY
+03A6 - ?JEWELRY
+03A7 - ?JEWELRY
+03A8 - ?JEWELRY
+03A9 - ?JEWELRY
+03AA - ?JEWELRY
+03AB - ?JEWELRY
+03AC - ?JEWELRY
+03AD - ?JEWELRY
+03AE - ?JEWELRY
+03AF - ?JEWELRY
+03B0 - ?JEWELRY
+03B1 - ?JEWELRY
+03B2 - ?JEWELRY
+03B3 - ?JEWELRY
+03B4 - ?JEWELRY
+03B5 - ?JEWELRY
+03B6 - ?JEWELRY
+03B7 - ?ITEM
+03B8 - ?ITEM
+03B9 - ?ITEM
+03BA - ?ITEM
+03BB - ?ITEM
+03BC - ?Book
+03BD - ?Book
+03BE - ?Book
+03BF - ?Book
+03C0 - ?Book
+03C1 - ?Book
+03C2 - ?FOOD
+03C3 - ?FOOD
+03C4 - ?FOOD
+03C5 - ?FOOD
+03C6 - ?FOOD
+03C7 - ?FOOD
+03C8 - ?FOOD
+03C9 - ?FOOD
+03CA - ?FOOD
+03CB - ?FOOD
+03CC - ?FOOD
+03CD - ?FOOD
+03CE - ?FOOD
+03CF - ?FOOD
+03D0 - ?FOOD
+03D1 - ?FOOD
+03D2 - ?FOOD
+03D3 - ?FOOD
+03D4 - ?FOOD
+03D5 - ?FOOD
+03D6 - ?FOOD
+03D7 - ?FOOD
+03D8 - ?FOOD
+03D9 - ?FOOD
+03DA - ?FOOD
+03DB - ?FOOD
+03DC - ?FOOD
+03DD - ?FOOD
+03DE - ?FOOD
+03DF - ?FOOD
+03E0 - ?FOOD
+03E1 - ?FOOD
+03E2 - ?FOOD
+03E3 - ?FOOD
+03E4 - ?FOOD
+03E5 - ?FOOD
+03E6 - ?FOOD
+03E7 - ?FOOD
+03E8 - ?FOOD
+03E9 - ?FOOD
+03EA - ?FOOD
+03EB - ?FOOD
+03EC - ?FOOD
+03ED - ?FOOD
+03EE - ?FOOD
+03EF - ?FOOD
+03F0 - ?FOOD
+03F1 - ?FOOD
+03F2 - ?FOOD
+03F3 - ?FOOD
+03F4 - ?FOOD
+03F5 - ?FOOD
+03F6 - ?FOOD
+03F7 - ?FOOD
+03F8 - ?FOOD
+03F9 - ?FOOD
+03FA - ?FOOD
+03FB - ?FOOD
+03FC - ?MACHINE
+03FD - ?MACHINE
+03FE - ?MACHINE
+03FF - ?MACHINE
