@@ -36,9 +36,9 @@ The position (P) and length (L) would be encoded as follows:
 
 To recover the position and length we can use the following C psuedo-code:
 
-`unsigned int position = position | ((len & 0x0F) << 8)`
+`unsigned int position = Byte1 | ((Byte2 & 0x0F) << 8)`
 
-`unsigned int length = (length >> 4) + 3`
+`unsigned int length = (Byte2 >> 4) + 3`
 
 Where | is a bitwise or, << 8 is a left shift by 8, >> 4 is a right shift by 4.
 
