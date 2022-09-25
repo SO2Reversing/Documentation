@@ -1,4 +1,4 @@
-Name, HP, MP, EXP, FOL, DRP1, DRP2, SIZE, SPD, ATK, DEF, ATK_DIST, AVD, Et, Wt, Fr, Wd, Th, St, Vc, Lg, Dk, Vd, AGR
+Name, HP, MP, EXP, FOL, DRP1, DRP2, SIZE, SPD, ATK, DEF, ATK_DIST, AVD, Et, Wt, Fr, Wd, Th, St, Vc, Lg, Dk, Vd
 Cyril, 300000, 5900, 460000, 80000, 34, 66, 30, 40, 2300, 600, 200, 460, Strong, Nullify, Neutral, Nullify, Nullify, Nullify, Nullify, Nullify, Strong, Strong
 Lizardaxe, 60, 0, 10, 18, 48, 44, 48, 7, 56, 0, 20, 10, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral, Weak, Neutral, Neutral
 FunnyThief, 3, 0, 6, 10, 22, 44, 32, 6, 48, 0, 28, 10, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral, Neutral
