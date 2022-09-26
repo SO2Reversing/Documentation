@@ -1,0 +1,52 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: 
+//   Authors: 
+//   Version: 
+//   Purpose: 
+//  Category: 
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+int HP;
+int MP;
+int EXP;
+int FOL;
+short DROP1;
+short DROP2;
+short SIZE;
+short SPD;
+short STAT1;
+short STAT2;
+short ATK;
+short DEF;
+short STAT3;
+short ATK_DIST;
+short STAT7;
+short AVD;
+short STAT9;
+char Et;
+char Wt;
+char Fr;
+char Wd;
+char Th;
+char St;
+char Vc;
+char Lg;
+char Dk;
+char Vd;
+unsigned short STAT10;
+unsigned short STAT11;
+unsigned short STAT12;
+unsigned short STAT13;
+unsigned short STAT14;
+unsigned short STAT15;
+unsigned short AGRESSION;
+unsigned short STAT17;
+unsigned short STAT18;
+unsigned short STAT19;
+unsigned short STAT20;
+unsigned short STAT21;

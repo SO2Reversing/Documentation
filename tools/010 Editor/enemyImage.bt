@@ -1,0 +1,73 @@
+struct ATLAS_LAYOUT {
+    char pallet;
+    char empty;
+    char TOPL_x;
+    char TOPL_y;
+    char BOTL_x;
+    char BOTL_y;
+    char ORIGIN_x;
+    char ORIGIN_y;
+};
+
+struct PALLET {
+    short pallet_data[16];
+};
+
+struct ATLAS_LAYOUT_HEADER {
+    int some_size_x;
+    int some_size_y;
+    short blank;
+    short num_images;
+    int blank;
+    ATLAS_LAYOUT layout_data[num_images];
+    unsigned char num_pallets;
+    char palblank[3];
+    local char num_plt = num_pallets >> 4;
+    PALLET pallets[num_plt];
+    short atlas_size_x;
+    short atlas_size_y;
+};
+
+struct SPRITE_LAYOUT {
+    char plt_idx;
+    char width;
+    char height;
+    char blank;
+    short origin_x;
+    short origin_y;
+    int sprite_data_offset;
+};
+
+struct SPRITES_LAYOUT_HEADER {
+    int some_size_x;
+    int some_size_y;
+    short some_id;
+    short num_sprites;
+    int unknown;
+    SPRITE_LAYOUT sprite_data[num_sprites];
+    unsigned char num_pallets;
+    char palblank[3];
+    local char num_plt = num_pallets >> 4;
+    PALLET pallets[num_plt];
+    local int sprite_img_data_offset = FTell();
+};
+
+int num_atlas;
+int num_sprite_layouts;
+int some_size_x;
+int some_size_y;
+
+struct ATLAS_HEADER {int maybe_offset; int atlas_layout_offset;} atlas_data[num_atlas];
+struct SPRITES_HEADER {int maybe_offset; int sprite_layout_offset;} sprite_data[num_sprite_layouts];
+
+local int i;
+for(i = 0; i < num_atlas; i++ ) {
+    FSeek(atlas_data[i].atlas_layout_offset);
+    ATLAS_LAYOUT_HEADER atlas_layout_header;
+}
+
+for(i = 0; i < num_atlas; i++ ) {
+    FSeek(sprite_data[i].sprite_layout_offset);
+    SPRITES_LAYOUT_HEADER spr_layout_hdr;
+}
+
