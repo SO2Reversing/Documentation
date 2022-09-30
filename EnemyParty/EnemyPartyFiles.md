@@ -1,7 +1,7 @@
 First 32bit word is file offset for image slz  
 second word is (?)  
 image section ends with FF FF FF FF  
-next section is (?) only used in some files  
+next section is substitute pallet offset only used in some files  
 section ends with FF FF FF FF  
 next section starts with file offset for slz  
 Maybe this section is AI script?  
