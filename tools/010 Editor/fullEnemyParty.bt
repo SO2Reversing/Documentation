@@ -1,0 +1,113 @@
+local int slz_count = 0;
+while (ReadInt() != 0xFFFFFFFF){
+    int slz_offset;
+    int slz_index;
+    slz_count++;
+}
+int slz_section_end;
+
+
+local int alt_plt_count = 0;
+while (ReadInt() != 0xFFFFFFFF){
+    int alt_plt_index;
+    int alt_plt_offset;
+    alt_plt_count++;
+}
+int alt_plt_section_end;
+
+local int code_count = 0;
+while (ReadInt() != 0xFFFFFFFF){
+    int code_index;    
+    int code_offset;
+    code_count++;
+}
+int code_section_end;
+
+struct ENEMY_HEADER {
+    int start;
+    int mid;
+    int end;
+};
+
+
+local int enemy_count = 0;
+while (ReadByte() != 0x00) {
+    ENEMY_HEADER enemy_header;
+    enemy_count++;
+}
+int en_head_section_end;
+
+struct ENEMY_DATA {
+    int HP;
+    int MP;
+    int EXP;
+    int FOL;
+    short DROP1;
+    short DROP2;
+    short SIZE;
+    short SPD;
+    short STAT1;
+    short STAT2;
+    short ATK;
+    short DEF;
+    short STAT3;
+    short ATK_DIST;
+    short STAT7;
+    short AVD;
+    short STAT9;
+    char Et;
+    char Wt;
+    char Fr;
+    char Wd;
+    char Th;
+    char St;
+    char Vc;
+    char Lg;
+    char Dk;
+    char Vd;
+    unsigned short STAT10;
+    unsigned short STAT11;
+    unsigned short STAT12;
+    unsigned short STAT13;
+    unsigned short STAT14;
+    unsigned short STAT15;
+    unsigned short AGRESSION;
+    unsigned short STAT17;
+    unsigned short STAT18;
+    unsigned short STAT19;
+    unsigned short STAT20;
+    unsigned short STAT21;
+    char name[16];
+};
+
+local int i;
+for (i=0; i<enemy_count; i++){
+    ENEMY_DATA enemy_data;
+}
+
+struct SLZ_DATA{
+    int id;
+    int comp_size;
+    int decomp_size;
+    int part2_offset;
+    char slz_bytes[comp_size];
+};
+
+local int slz_size;
+for (i=0; i<slz_count; i++){
+    FSeek(slz_offset[i]);
+    SLZ_DATA image_slz_data;
+}
+
+for (i=0; i<alt_plt_count; i++){
+    FSeek(alt_plt_offset[i]);
+    struct ALT_PLT_DATA{
+        int alt_pltheader[5];
+        char alt_plt_data[512];
+    }alt_plt;
+}
+
+for (i=0; i<code_count; i++){
+    FSeek(code_offset[i]);
+    SLZ_DATA code_slz_data;
+}
