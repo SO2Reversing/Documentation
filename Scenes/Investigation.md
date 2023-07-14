@@ -17,3 +17,14 @@ Some of these files are the actual BG IMG
 E.G. the files split at address 0xEAE8 and 0x0430  
 There is another file that *seems* to hold animation and sprite data which is at the address 0x017C24  
 Then there is another file that seems to hold the glyph information 0x016870  
+
+
+Set a beak point at 8005e220
+
+or at 8005e4cc
+or at 8005e3d8
+
+
+8005e1e0 - v0/24 = glyph index
+
+set break point at 8005e1ac - a1-1 = glpyh index
