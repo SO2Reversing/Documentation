@@ -28,3 +28,5 @@ or at 8005e3d8
 8005e1e0 - v0/24 = glyph index
 
 set break point at 8005e1ac - a1-1 = glpyh index
+
+break at 8005d1c8 where the glyph index is loaded from memory
