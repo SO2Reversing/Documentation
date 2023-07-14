@@ -4,8 +4,8 @@ It looks like the "Scene" files have the header 03000000
 looking at file 3207 - uses renas bedroom as the BG - maybe this is the debug room
 its comprised of a header, then 7 SLZ files:
 
-1 - header
-2 - 0x1C - ?
+1 - header    
+2 - 0x1C - ?   
 3 - 0x0410 - Maybe BG Layout Info
 4 - 0x0430 - BG IMG
 5 - 0xEAE8 - BG IMG
