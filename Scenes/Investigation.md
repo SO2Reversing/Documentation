@@ -40,3 +40,5 @@ Loading scenes
 scene ID is written at 80043540
 
 scene is loaded at 80075770
+
+loadscene function is called from 80063aa0
