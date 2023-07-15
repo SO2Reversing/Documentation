@@ -32,6 +32,9 @@ set break point at 8005e1ac - a1-1 = glpyh index
 break at 8005d1c8 where the glyph index is loaded from memory
 
 
+80063aa0 load level (3207 + index)
+
+
 
 Loading scenes
 scene ID is written at 80043540
