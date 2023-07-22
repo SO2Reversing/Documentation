@@ -1,0 +1,25 @@
+4489 - extracted
+
+Model file
+
+the model file contains the vertices, vertex colours and likely the UV info
+
+there is a header that is 0x2c in size
+
+each header seems to be 4 bytes / 32bit unsigned int
+
+header 1 : normally 2c
+header 2 : offset to vertex data
+header 3 : ?
+header 4 : offset to rgb data / lighting?
+header 5 : uv?
+header 6 : ?
+header 7 : img?
+
+
+
+Vertex data is store in 4 bytes per vertex
+byte 1 : x data
+byte 2 : y data
+byte 3 : z data
+byte 4 : blank
